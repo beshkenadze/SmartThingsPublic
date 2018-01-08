@@ -1,0 +1,3 @@
+[submodule "devicetypes/xiaomi"]
+	path = devicetypes/xiaomi
+	url = https://github.com/beshkenadze/smartthings-xiaomi.git
